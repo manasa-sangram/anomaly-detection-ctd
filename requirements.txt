@@ -1,0 +1,5 @@
+ctdam
+scikit-learn
+pandas
+matplotlib
+numpy

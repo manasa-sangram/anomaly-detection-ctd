@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.parquet
+*.pkl
+*.csv
+emb_data/
+emb295_manasa_data/
+CTD_DATA_CORRECT/
